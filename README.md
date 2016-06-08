@@ -1,7 +1,7 @@
 # Dominators
 
-$sh run.py
+$sh run.sh
 
 OR
 
-$sh runc.py
+$sh runc.sh
